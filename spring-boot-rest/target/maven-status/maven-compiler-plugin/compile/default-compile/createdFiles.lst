@@ -1,5 +1,0 @@
-com\rutik\springbootrest\service\JobService.class
-com\rutik\springbootrest\model\JobPost.class
-com\rutik\springbootrest\repo\JobRepo.class
-com\rutik\springbootrest\SpringBootRestApplication.class
-com\rutik\springbootrest\controller\JobRestController.class
